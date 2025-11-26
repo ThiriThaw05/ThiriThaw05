@@ -13,7 +13,7 @@ Software Engineering student at King Mongkut's Institute of Technology Ladkraban
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiri-thaw/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiri-thaw-75100632a/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:thiri12505@gmail.com)
 
 [![](https://visitcount.itsvg.in/api?id=ThiriThaw05&icon=0&color=0)](https://visitcount.itsvg.in)
